@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/EN-Site/static/css/main.43ded3b3.chunk.css",
+    "main.js": "/EN-Site/static/js/main.8b643670.chunk.js",
+    "main.js.map": "/EN-Site/static/js/main.8b643670.chunk.js.map",
+    "runtime-main.js": "/EN-Site/static/js/runtime-main.6c7dc633.js",
+    "runtime-main.js.map": "/EN-Site/static/js/runtime-main.6c7dc633.js.map",
+    "static/css/2.04cb54d3.chunk.css": "/EN-Site/static/css/2.04cb54d3.chunk.css",
+    "static/js/2.875e54ad.chunk.js": "/EN-Site/static/js/2.875e54ad.chunk.js",
+    "static/js/2.875e54ad.chunk.js.map": "/EN-Site/static/js/2.875e54ad.chunk.js.map",
+    "static/js/3.50352209.chunk.js": "/EN-Site/static/js/3.50352209.chunk.js",
+    "static/js/3.50352209.chunk.js.map": "/EN-Site/static/js/3.50352209.chunk.js.map",
+    "index.html": "/EN-Site/index.html",
+    "static/css/2.04cb54d3.chunk.css.map": "/EN-Site/static/css/2.04cb54d3.chunk.css.map",
+    "static/css/main.43ded3b3.chunk.css.map": "/EN-Site/static/css/main.43ded3b3.chunk.css.map",
+    "static/js/2.875e54ad.chunk.js.LICENSE.txt": "/EN-Site/static/js/2.875e54ad.chunk.js.LICENSE.txt",
+    "static/media/calendar.616b872a.svg": "/EN-Site/static/media/calendar.616b872a.svg",
+    "static/media/App.css": "/EN-Site/static/media/right.fa3ecc6c.svg",
+    "static/media/image1.3056907b.jpg": "/EN-Site/static/media/image1.3056907b.jpg",
+    "static/media/image10.a9c742a0.png": "/EN-Site/static/media/image10.a9c742a0.png",
+    "static/media/image11.1e473f39.png": "/EN-Site/static/media/image11.1e473f39.png",
+    "static/media/image12.ce0b0ea1.jpg": "/EN-Site/static/media/image12.ce0b0ea1.jpg",
+    "static/media/image2.a1cb5648.png": "/EN-Site/static/media/image2.a1cb5648.png",
+    "static/media/image3.9f6c156e.jpg": "/EN-Site/static/media/image3.9f6c156e.jpg",
+    "static/media/image4.e0d6133e.png": "/EN-Site/static/media/image4.e0d6133e.png",
+    "static/media/image5.8277a5f8.png": "/EN-Site/static/media/image5.8277a5f8.png",
+    "static/media/image6.86509eae.jpg": "/EN-Site/static/media/image6.86509eae.jpg",
+    "static/media/image7.66ec7771.png": "/EN-Site/static/media/image7.66ec7771.png",
+    "static/media/image8.b4089d39.png": "/EN-Site/static/media/image8.b4089d39.png",
+    "static/media/image9.39945307.png": "/EN-Site/static/media/image9.39945307.png",
+    "static/media/logo1.4986076d.jpeg": "/EN-Site/static/media/logo1.4986076d.jpeg",
+    "static/media/rightsmall.ee093ee8.svg": "/EN-Site/static/media/rightsmall.ee093ee8.svg",
+    "static/media/silogo.a4564c5e.svg": "/EN-Site/static/media/silogo.a4564c5e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c7dc633.js",
+    "static/css/2.04cb54d3.chunk.css",
+    "static/js/2.875e54ad.chunk.js",
+    "static/css/main.43ded3b3.chunk.css",
+    "static/js/main.8b643670.chunk.js"
+  ]
+}
