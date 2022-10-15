@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5a95728.chunk.css",
-    "main.js": "/static/js/main.75d26d7e.chunk.js",
-    "main.js.map": "/static/js/main.75d26d7e.chunk.js.map",
+    "main.css": "/static/css/main.5f216792.chunk.css",
+    "main.js": "/static/js/main.b8a8b786.chunk.js",
+    "main.js.map": "/static/js/main.b8a8b786.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.eed979c9.js",
     "runtime-main.js.map": "/static/js/runtime-main.eed979c9.js.map",
     "static/css/2.92aace85.chunk.css": "/static/css/2.92aace85.chunk.css",
@@ -10,12 +10,11 @@
     "static/js/2.c1f692b3.chunk.js.map": "/static/js/2.c1f692b3.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.92aace85.chunk.css.map": "/static/css/2.92aace85.chunk.css.map",
-    "static/css/main.b5a95728.chunk.css.map": "/static/css/main.b5a95728.chunk.css.map",
+    "static/css/main.5f216792.chunk.css.map": "/static/css/main.5f216792.chunk.css.map",
     "static/js/2.c1f692b3.chunk.js.LICENSE.txt": "/static/js/2.c1f692b3.chunk.js.LICENSE.txt",
     "static/media/Guidelines.1b94c6ef.pdf": "/static/media/Guidelines.1b94c6ef.pdf",
     "static/media/Template.1c5e8d06.docx": "/static/media/Template.1c5e8d06.docx",
     "static/media/calendar.616b872a.svg": "/static/media/calendar.616b872a.svg",
-    "static/media/enlogo.258cb114.png": "/static/media/enlogo.258cb114.png",
     "static/media/App.css": "/static/media/footer.a13d6232.svg",
     "static/media/image1.22a62ddd.png": "/static/media/image1.22a62ddd.png",
     "static/media/image1.3056907b.jpg": "/static/media/image1.3056907b.jpg",
@@ -52,8 +51,9 @@
     "static/media/img6.346a44bf.jpg": "/static/media/img6.346a44bf.jpg",
     "static/media/img6.4e932027.png": "/static/media/img6.4e932027.png",
     "static/media/img8.50e63f98.jpg": "/static/media/img8.50e63f98.jpg",
-    "static/media/logo1.258cb114.png": "/static/media/logo1.258cb114.png",
-    "static/media/mob.5e93746b.svg": "/static/media/mob.5e93746b.svg",
+    "static/media/logo1.20181152.png": "/static/media/logo1.20181152.png",
+    "static/media/mob.8844d5a5.svg": "/static/media/mob.8844d5a5.svg",
+    "static/media/naya.2510639a.png": "/static/media/naya.2510639a.png",
     "static/media/Banner.css": "/static/media/register-bg.1b4483df.svg",
     "static/media/rightsmall.ee093ee8.svg": "/static/media/rightsmall.ee093ee8.svg",
     "static/media/silogo.a4564c5e.svg": "/static/media/silogo.a4564c5e.svg"
@@ -62,7 +62,7 @@
     "static/js/runtime-main.eed979c9.js",
     "static/css/2.92aace85.chunk.css",
     "static/js/2.c1f692b3.chunk.js",
-    "static/css/main.b5a95728.chunk.css",
-    "static/js/main.75d26d7e.chunk.js"
+    "static/css/main.5f216792.chunk.css",
+    "static/js/main.b8a8b786.chunk.js"
   ]
 }
