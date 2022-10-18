@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5f216792.chunk.css",
-    "main.js": "/static/js/main.b8a8b786.chunk.js",
-    "main.js.map": "/static/js/main.b8a8b786.chunk.js.map",
+    "main.js": "/static/js/main.0fdf8fe3.chunk.js",
+    "main.js.map": "/static/js/main.0fdf8fe3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.eed979c9.js",
     "runtime-main.js.map": "/static/js/runtime-main.eed979c9.js.map",
     "static/css/2.92aace85.chunk.css": "/static/css/2.92aace85.chunk.css",
@@ -51,8 +51,8 @@
     "static/media/img6.346a44bf.jpg": "/static/media/img6.346a44bf.jpg",
     "static/media/img6.4e932027.png": "/static/media/img6.4e932027.png",
     "static/media/img8.50e63f98.jpg": "/static/media/img8.50e63f98.jpg",
-    "static/media/logo1.20181152.png": "/static/media/logo1.20181152.png",
-    "static/media/mob.8844d5a5.svg": "/static/media/mob.8844d5a5.svg",
+    "static/media/logo1.258cb114.png": "/static/media/logo1.258cb114.png",
+    "static/media/mob.5e93746b.svg": "/static/media/mob.5e93746b.svg",
     "static/media/naya.2510639a.png": "/static/media/naya.2510639a.png",
     "static/media/Banner.css": "/static/media/register-bg.1b4483df.svg",
     "static/media/rightsmall.ee093ee8.svg": "/static/media/rightsmall.ee093ee8.svg",
@@ -63,6 +63,6 @@
     "static/css/2.92aace85.chunk.css",
     "static/js/2.c1f692b3.chunk.js",
     "static/css/main.5f216792.chunk.css",
-    "static/js/main.b8a8b786.chunk.js"
+    "static/js/main.0fdf8fe3.chunk.js"
   ]
 }
