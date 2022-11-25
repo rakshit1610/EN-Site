@@ -49,24 +49,24 @@ Smart grids and virtual power stations, Energy policy, low power electronics and
     <tr>
     <td>Submission of Paper  </td>
       
-      <td>20th November 2022</td>
+      <td>10th December 2022</td>
      
       
       
     </tr>
     <tr>
     <td>Notification to Authors    </td>
-    <td>31st December 2022</td>
+    <td>15th January 2023</td>
     </tr>
 
     <tr>
     <td>Final Version of Accepted Submissions   </td>
-    <td>15th January 2023</td>
+    <td>30th January 2023</td>
     </tr>
    
     <tr>
     <td>    Registration and Camera Ready Copy Submission   </td>
-    <td>30th January 2023</td>
+    <td>10th February 2023</td>
     </tr>
 
     <tr>

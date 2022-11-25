@@ -15,7 +15,7 @@ import React, { Component } from "react";
             <span className="bold-text">Track 3:</span> Sustainable Technologies and Development<br/>
             <span className="bold-text">Track 4:</span> Artificial Intelligence and Embedded Systems</p>
             <div style={{color:"red", fontWeight:"bold"}}>
-                <h4>The last date for full paper submission is 20th November 2022.</h4>
+            The last date for full paper submission is<h4 style={{display:"inline"}}> extended to 10th December 2022.</h4>
                 <p>
                     Paper Submission Link: &ensp;
                     <a href="https://www.morressier.com/call-for-papers/63512b093e1a01001cd1b7f4" target="_blank" rel="noreferrer" >Call for Papers | Morressier</a>
