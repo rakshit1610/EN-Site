@@ -49,7 +49,7 @@ Smart grids and virtual power stations, Energy policy, low power electronics and
     <tr>
     <td>Submission of Paper  </td>
       
-      <td>10th December 2022</td>
+      <td>31st December 2022</td>
      
       
       

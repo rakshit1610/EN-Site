@@ -15,7 +15,7 @@ import React, { Component } from "react";
             <span className="bold-text">Track 3:</span> Sustainable Technologies and Development<br/>
             <span className="bold-text">Track 4:</span> Artificial Intelligence and Embedded Systems</p>
             <div style={{color:"red", fontWeight:"bold"}}>
-            The last date for full paper submission is<h4 style={{display:"inline"}}> extended to 10th December 2022.</h4>
+            The last date for full paper submission is<h4 style={{display:"inline"}}> finally extended to 31st December 2022 (Hard Deadline).</h4>
                 <p>
                     Paper Submission Link: &ensp;
                     <a href="https://www.morressier.com/call-for-papers/63512b093e1a01001cd1b7f4" target="_blank" rel="noreferrer" >Call for Papers | Morressier</a>
@@ -58,9 +58,9 @@ import React, { Component } from "react";
                 <p>
                 All the submitted papers will undergo a review process by the International Review Committee of AKGEC 2023. All the accepted,registered and presented manuscripts shall be published in the proceedings of <b>the Journal of Physics, indexed in SCOPUS. The papers in the correct format will only be considered for review and publication.</b>
                 </p>
+                <p><b>It is requested to circulate this call for papers to your research circle and academic community who may be benefited.</b></p>
                 <h3>Mode of presentation </h3>
                 <p>The conference will be organized in Hybrid mode. The Authors may request, in advance, the organizers for presenting the papers in online mode. </p>
-                
             </div>
             
             </div>
