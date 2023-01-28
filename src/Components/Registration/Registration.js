@@ -33,6 +33,16 @@ import { Table } from "react-bootstrap";
                 <td>Rs. 4000</td>
                 <td>$ 150</td>
             </tr>
+            <tr>
+                <td>Poster Presentation </td> 
+                <td>Rs. 1500</td>
+                <td>$ 150</td>
+            </tr>
+            <tr>
+                <td>Co-authors & Attendees  </td> 
+                <td>Rs. 1500</td>
+                <td>$ 150</td>
+            </tr>
 
             </tbody>
         </Table>
