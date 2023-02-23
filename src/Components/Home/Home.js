@@ -4,13 +4,16 @@ import logopath from '../../assets/icons/naya.png';
 import {ReactComponent as Calendar} from '../../assets/icons/calendar.svg';
 import {ReactComponent as Desktop} from '../../assets/icons/mob.svg';
 import Gallery from '../Gallery/Gallery'
+import poster from "../../assets/poster.jpg"
+import judges from "../../assets/judges.jpg"
+import posterMob from "../../assets/posterMob.jpg"
 
 class Home extends Component {
 
     render(){
       return (
         <div id="home">
-<div className="d-flex container pt-5 justify-content-between">
+{/* <div className="d-flex container pt-5 justify-content-between">
             <div>
                 <img src={logopath} class="nayi"/>
                 <div id="bg-green" className="d-inline-block p-2 mt-3">
@@ -21,12 +24,15 @@ class Home extends Component {
                 <Calendar/> <h5 className="greytext d-inline m-auto">24-25 Feb 2023</h5>
             </div>
             <div className="w-50 d-flex deskicon" ><Desktop className="d-inline-block w-50 m-auto"/></div>
-</div>
+</div> */}
+
+<img src={poster}  className="posterHome" alt="poster"></img>
+<img src={posterMob}  className="posterHomeMob" alt="poster"></img>
 
 
-            <div className="container mt-4">
+            {/* <div className="container mt-4">
             <Desktop className="w-50 mobicon"/>
-            </div>
+            </div> */}
 
 
 <div id="date" className="target mt-3">
@@ -35,6 +41,11 @@ class Home extends Component {
             <p>The conference hosted by Department of Electrical and Electronics Engineering, will be held offline at AKGEC, Ghaziabad, Uttar Pradesh, India from February 24-25, 2023. The conference will include regular sessions with poster/oral presentations, global and technical sessions, panel discussions and poster presentations organized in AKGEC.</p>
             </div>
             </div>
+
+<div className="judgesImg">
+  <img src={judges} alt="judges"/>
+</div>
+
 
 <div id="theme" className="target">
             <div className="container mb-5" >
