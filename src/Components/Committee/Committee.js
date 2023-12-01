@@ -42,7 +42,7 @@ class Theme extends Component {
                                 <th className="noborder">Honorary General Chair </th>
                             </tr>
                             <tr>
-                                <td className="tdborder"> Dr. S N Singh </td>
+                                <td className="tdborder"> Dr. S N Singh <br/>Professor, Department of Electrical Engineering IIT Kanpur</td>
                             </tr>
                         </tbody>
                     </Table>
