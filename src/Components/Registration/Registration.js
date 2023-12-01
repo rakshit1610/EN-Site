@@ -6,10 +6,12 @@ import { Table } from "react-bootstrap";
         render(){
             return (
             <div id="registration" className="target mb-5 foothandle">
-            <div className="container" >
+            <div class="container">
+                <h1 className="mb-3 green-heading" style={{height:"40vh"}}>Will be Updated Soon...</h1>
+            </div>
+            {/* <div className="container" >
             <h1 className="mb-3 green-heading">Registration Fees</h1>
             
-            {/* <Table bordered > */}
             
                 <Table bordered>
             <tbody>
@@ -94,7 +96,7 @@ import { Table } from "react-bootstrap";
             </tbody>
         </Table>
 
-            </div>
+            </div> */}
             </div>
             );
         }          

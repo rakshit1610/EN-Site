@@ -23,18 +23,16 @@ Smart grids and virtual power stations, Energy policy, low power electronics and
             <p>Artificial Intelligence, Machine Learning, Deep Learning, Bio-inspired Optimization based power control modeling, protection and simulation, Monitoring topologies: Community Information Systems, Remote Sensing, Geographic Information System and GPS, Disaster Management, E-Systems, Informatics Hybrid Evolutionary Algorithms, Hybrid Intelligent Systems; Neural Networks, Neuro-Fuzzy Models and Applications, Neuro Informatics Open Source: Challenges and Opportunities, Smart Grid Communication topologies for monitoring and control: Power-line Communications, Antenna and Wave Propagation, Green Communication Management. Smart sensors, VLSI Systems, Nano Electronics, FPGA Development, System on Chip, Embedded Applications, Embedded Memory Architecture, System Automation.</p>
             
             
-            <h1 className="mt-5 mb-3 green-heading">Plans for Publication of Proceedings</h1>
-            <p>
-{/* • The proceedings will be published by Springer and online.<br/> */}
+            <h1 className="mt-5 mb-3 green-heading">Further Updates Soon...</h1>
+            {/* <p>
 • All the presented papers will be indexed in a Scopus Journal.<br/>
 • Best paper award will be given for each theme.
-</p>
+</p> */}
 </div>
 
-<div className="container" >
+{/* <div className="container" >
             <h1 className="mt-5 mb-3 green-heading">Important Timelines</h1>
             
-            {/* <Table bordered > */}
             
             <Table bordered >
   <tbody>
@@ -77,7 +75,7 @@ Smart grids and virtual power stations, Energy policy, low power electronics and
 </Table>
 
 
-            </div>
+            </div> */}
 
             
             </div>

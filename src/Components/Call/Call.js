@@ -56,7 +56,7 @@ import React, { Component } from "react";
                 </ul>
                 <h3>Review and Publication</h3>
                 <p>
-                All the submitted papers will undergo a review process by the International Review Committee of AKGEC 2023. All the accepted,registered and presented manuscripts shall be published in the proceedings of <b>the Journal of Physics, indexed in SCOPUS. The papers in the correct format will only be considered for review and publication.</b>
+                All the submitted papers will undergo a review process by the International Review Committee of AKGEC 2024. All the accepted,registered and presented manuscripts shall be published in the proceedings of <b>the Journal of Physics, indexed in SCOPUS. The papers in the correct format will only be considered for review and publication.</b>
                 </p>
                 <p><b>It is requested to circulate this call for papers to your research circle and academic community who may be benefited.</b></p>
                 <h3>Mode of presentation </h3>
