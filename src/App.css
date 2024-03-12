@@ -41,6 +41,11 @@
     font-weight: 800 !important;
     color: #1F842E;
   }
+
+  .red-heading{
+    font-weight: 800 !important;
+    color: #c31212;
+  }
   
   .bold-text{
     font-weight: 600;
