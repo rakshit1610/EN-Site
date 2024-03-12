@@ -22,7 +22,7 @@ function Navigationbar(props) {
             className="text-white p-1 me-4"
             style={{ fontSize: "12px", border: "1px solid white" }}
           >
-            Date&nbsp;:&nbsp;24&nbsp;-&nbsp;25&nbsp;Feb&nbsp;2023
+            Date&nbsp;:&nbsp;21&nbsp;-&nbsp;23&nbsp;Nov&nbsp;2024
           </div>
           {/* <NotificationsIcon onClick={() => setModalShow(true)} className='m-0 p-0' style={{color:"white"}}/> */}
         </div>
