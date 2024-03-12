@@ -11,7 +11,7 @@ import Footer from '../Footer/Footer';
             <div className="container" >
                 <h1 className="display-5 bold-text text-center">AJAY KUMAR GARG ENGINEERING COLLEGE, GHAZIABAD</h1>
                 <h5 className="greytext mt-3 mb-4 text-center">DEPARTMENT OF ELECTRICAL & ELECTRONICS ENGINEERING</h5>
-                <h6 className="bold-text text-center">Proposed Tentative budget for the 1st International conference on Advancements & Key Challenges in Green Energy and Computing (&nbsp;AKGEC&nbsp;-&nbsp;2022&nbsp;)</h6>
+                <h6 className="bold-text text-center">Proposed Tentative budget for the 2nd International conference on Advancements & Key Challenges in Green Energy and Computing (&nbsp;AKGEC&nbsp;-&nbsp;2024&nbsp;)</h6>
 
                 <Table borderless className="mt-5 budget-btm" responsive="md">
                     <tbody>

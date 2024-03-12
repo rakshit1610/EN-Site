@@ -73,7 +73,7 @@ class Home extends Component {
         <div id="date" className="target mt-3">
           <div className="container">
             <h1 className="mb-3 green-heading">
-              About the 1st International Conference AKGEC 2023
+              About the 2nd International Conference AKGEC 2024
             </h1>
             <div className="prevImg">
               <img src={previous} alt="judges" />
@@ -82,7 +82,7 @@ class Home extends Component {
               The first conference on &quot;Advancements and Challenges in Green
               Energy and Computing&quot; was organized by the Department of
               Electrical &amp; Electronics Engineering at Ajay Kumar Garg
-              Engineering College (AKGEC) on 24-25 February 2023. The prime
+              Engineering College (AKGEC) on 21-23 November 2024. The prime
               objective of the conference was to bring together researchers,
               scientists, students, and industry professionals to discuss
               innovative ideas, opportunities, challenges, advancements, and
